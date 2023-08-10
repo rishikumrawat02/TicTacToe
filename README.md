@@ -22,7 +22,7 @@
 ## Screenshots
 
 <p align="center">
-  <img src="Images/Screenshot 2023-08-10 204958.png" alt="Screenshot 1" width="600" height="600"/>
+  <img src="Images/Screenshot 2023-08-10 204958.png" alt="Screenshot 1" width="900" height="600"/>
 </p>
 
 
